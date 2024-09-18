@@ -1,0 +1,20 @@
+h1{
+    color: maroon;
+    text-align: center;
+}
+body{
+    background-color: beige;
+    color: black;
+}
+.skills{
+    color: blue;
+}
+.projects{
+    color: purple;
+}
+.contact{
+    color: green;
+}
+.about{
+    color: orchid;
+}

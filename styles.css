@@ -19,11 +19,11 @@ body{
     display:flex; flex-wrap:wrap; 
 }
 .project {
-    width: 30%;
+    width: 50%;
     margin: 10px;
     padding: 20px 10px;
     background: whitesmoke;
-    border-radius: 25%;
+    border-radius: 10%;
 }
 .project img{
     width: 400px;

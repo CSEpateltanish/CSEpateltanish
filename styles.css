@@ -3,14 +3,14 @@ h1{
     text-align: center;
 }
 body{
-    background-color: maroon;
+    background-color: rgb(89, 155, 221);
     color: whitesmoke;
 }
 .skills{
     color: whitesmoke;
 }
 .projects{
-    color: black;
+    color: whitesmoke;
 }
 .contact{
     color: whitesmoke;
@@ -22,17 +22,17 @@ body{
     display:flex; flex-wrap:wrap; 
 }
 .project {
-    width: 30%;
+    width: 50%;
     margin: 10px;
     padding: 20px 10px;
-    background: green;
+    background: whitesmoke;
     border-radius: 25%;
 }
 .project img{
-    width: 600px;
+    width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid maroon;
+    border: 2px solid black;
     display: block;
     margin: auto;
 }

@@ -3,7 +3,7 @@ h1{
     text-align: center;
 }
 body{
-    background-color: rgb(89, 155, 221);
+    background-color: rgb(2, 70, 97);
     color: whitesmoke;
 }
 .skills{
@@ -22,10 +22,10 @@ body{
     display:flex; flex-wrap:wrap; 
 }
 .project {
-    width: 50%;
+    width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: whitesmoke;
+    background: darkslategray;
     border-radius: 25%;
 }
 .project img{

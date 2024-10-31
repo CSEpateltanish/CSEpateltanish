@@ -4,19 +4,16 @@ h1{
 }
 body{
     background-color: rgb(2, 70, 97);
-    color: black;
+    color: #000000;
 }
 .skills{
-    color: black;
-}
-.projects{
-    color: black;
+    color: whitesmoke;
 }
 .contact{
-    color: black;
+    color: whitesmoke;
 }
 .about{
-    color: black;
+    color: whitesmoke;
 }
 .projects{ 
     display:flex; flex-wrap:wrap; 

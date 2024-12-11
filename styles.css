@@ -4,7 +4,7 @@ h1{
 }
 body{
     background-color: rgb(2, 70, 97);
-    color: #000000;
+    color: whitesmoke;
 }
 .skills{
     color: whitesmoke;
@@ -23,7 +23,7 @@ body{
     margin: 10px;
     padding: 20px 10px;
     background: whitesmoke;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 .project img{
     width: 400px;
